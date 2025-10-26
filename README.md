@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**tobiasdavidveiga/tobiasdavidveiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Recommended Books
 
-Here are some ideas to get you started:
+### Software Craftsmanship
+- **Clean Code** - Robert C. Martin  
+  Essential principles for writing maintainable and readable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **The Pragmatic Programmer** - David Thomas & Andrew Hunt  
+  Timeless advice for software developers on career development and best practices.
+
+### C# & .NET
+- **The C# Player's Guide** - RB Whitaker  
+  Excellent introduction to C# with hands-on approach and clear explanations.
+
+- **Pro C#** - Andrew Troelsen & Philip Japikse  
+  Comprehensive guide covering advanced C# and .NET features.
+
+### Design & Algorithms
+- **Head First Design Patterns** - Eric Freeman & Elisabeth Robson  
+  Visual and engaging approach to understanding design patterns.
+
+- **Introduction to Algorithms** - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein  
+  The definitive guide to algorithms and data structures.
