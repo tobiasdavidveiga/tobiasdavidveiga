@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 📚 Recommended Books
 
 ### Software Craftsmanship
