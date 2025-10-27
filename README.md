@@ -25,8 +25,6 @@ Software developer who loves typed languages like C# and automating things with 
 - **Atomic Habits** - James Clear
 - **Man's Search for Meaning** - Viktor E. Franklation.
 
-- **Atomic Habits** - James Clear  
-  Practical strategies for building good habits and breaking bad ones.
+## 📫 Get in Touch
 
-- **Man's Search for Meaning** - Viktor E. Frankl  
-  Profound insights on finding purpose and meaning in life, even in adversity.
+Feel free to reach out for work opportunities or just to chat: **tobiasdavidveiga@gmail.com**
