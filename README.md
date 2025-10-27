@@ -1,3 +1,12 @@
+# Hi, I'm Tobias 👋
+
+Software developer who loves typed languages like C# and automating things with Python. Self-taught learner and open-source enthusiast.
+
+## 🛠️ Tech Stack
+
+- **C#** - Building robust applications
+- **Python** - Automation and scripting
+
 ## 📚 Books I Recommend
 
 ### Writing Better Code
@@ -24,6 +33,9 @@
 ### Mathematics
 - **Book of Proof** - Richard Hammack  
   Clear introduction to mathematical proofs and logical reasoning.
+
+- **How to Prove It** - Daniel Velleman  
+  Interactive approach to learning mathematical proofs, great for self-learners.
 
 ### Personal Development
 - **How to Win Friends and Influence People** - Dale Carnegie  
