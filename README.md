@@ -1,11 +1,7 @@
 # Hi, I'm Tobias 👋
 
-Software developer who loves typed languages like C# and automating things with Python. Self-taught learner and open-source enthusiast.
-
-## 🛠️ Tech Stack
-
-- **C#** - Building robust applications
-- **Python** - Automation and scripting
+Software developer who loves typed languages like C# and automating things with Python. 
+Self-taught learner and open-source enthusiast.
 
 ## 📚 Books I Recommend
 
