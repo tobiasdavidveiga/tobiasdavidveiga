@@ -1,6 +1,6 @@
 # Hi, I'm Tobias 👋
 
-Software developer who loves typed languages like C# and automating things with Python.
+I love typed languages like C# and automating things with Python.
 
 ## 📚 Books I Recommend
 
@@ -27,4 +27,4 @@ Software developer who loves typed languages like C# and automating things with 
 
 ## 📫 Get in Touch
 
-Feel free to reach out for work opportunities or just to chat: **tobiasdavidveiga@gmail.com**
+Feel free to reach out for work opportunities or collaborations: **tobiasdavidveiga@gmail.com**
