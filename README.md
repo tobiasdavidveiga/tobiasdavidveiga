@@ -1,6 +1,6 @@
 # Hi, I'm Tobias 👋
 
-Software developer who loves typed languages like C# and automating things with Python. Self-taught learner and open-source enthusiast.
+Software developer who loves typed languages like C# and automating things with Python.
 
 ## 📚 Books I Recommend
 
