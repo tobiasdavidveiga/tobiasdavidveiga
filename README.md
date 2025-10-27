@@ -1,6 +1,6 @@
-## 📚 Recommended Books
+## 📚 Books I Recommend
 
-### Software Craftsmanship
+### Writing Better Code
 - **Clean Code** - Robert C. Martin  
   Essential principles for writing maintainable and readable code.
 
@@ -20,3 +20,17 @@
 
 - **Introduction to Algorithms** - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein  
   The definitive guide to algorithms and data structures.
+
+### Mathematics
+- **Book of Proof** - Richard Hammack  
+  Clear introduction to mathematical proofs and logical reasoning.
+
+### Personal Development
+- **How to Win Friends and Influence People** - Dale Carnegie  
+  Timeless principles for building meaningful relationships and effective communication.
+
+- **Atomic Habits** - James Clear  
+  Practical strategies for building good habits and breaking bad ones.
+
+- **Man's Search for Meaning** - Viktor E. Frankl  
+  Profound insights on finding purpose and meaning in life, even in adversity.
