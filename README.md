@@ -10,4 +10,6 @@
 
   Anything that promotes clean code and seamless integration. My preferences are Python and n8n.
 
+
+
 ### Let’s build something smart (or at least funny) together! ☕🤖
