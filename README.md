@@ -10,6 +10,7 @@
 
   Anything that promotes clean code and seamless integration. My preferences are Python and n8n.
 
+## Let’s build something smart (or at least funny) together! ☕🤖
 
-
-### Let’s build something smart (or at least funny) together! ☕🤖
+* 📧 **Email:** [tobiasdavidveiga@gmail.com](mailto:tobiasdavidveiga@gmail.com)
+* 🔗 **LinkedIn:** [Tobias David Veiga](https://www.linkedin.com/in/tobias-david-veiga/)
