@@ -1,5 +1,3 @@
-# ⚙️ Automation Enjoyer  
-
 ## About me
 
 Letting computers handle the boring stuff — an automation enthusiast fueled by caffeine and mildly allergic to repetitive tasks.
@@ -8,7 +6,7 @@ I always enjoy attending technology events and connecting with people who are cr
 
 ## My tools of choice 
 
-Anything that promotes clean code and seamless integration.
+Anything that promotes clean code and solves problems.
 
 My preferences are:
 *  **Python**
