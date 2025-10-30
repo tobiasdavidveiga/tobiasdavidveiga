@@ -1,9 +1,13 @@
 # ⚙️ Automation Enjoyer  
 
-I let computers do my chores; an automation enthusiast driven by caffeine and slightly allergic to repetitive tasks.
+### About me
 
-Always enjoy attending tech events and connecting with people who are building genuinely cool things.
+Letting computers handle the boring stuff — an automation enthusiast fueled by caffeine and mildly allergic to repetitive tasks.
 
-My tools of choice? Anything that supports clean code and seamless integration; from Python scripts to C# logic and visual workflows.
+I always enjoy attending technology events and connecting with people who are creating really cool things.
 
-Let’s build something smart (or at least funny) together! ☕🤖
+### My tools of choice 
+
+Anything that promotes clean code and seamless integration. My preferences are Python and n8n.
+
+### Let’s build something smart (or at least funny) together! ☕🤖
