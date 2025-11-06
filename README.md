@@ -10,7 +10,7 @@ Anything that promotes clean code and solves problems.
 
 My preferences are:
 *  **Python**
-*  **n8n**
+*  **JavaScript**
 
 ## Let’s build something smart (or at least funny) together! ☕🤖
 
