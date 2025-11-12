@@ -11,6 +11,7 @@ Anything that promotes clean code and solves problems.
 My preferences are:
 *  **Python**
 *  **JavaScript**
+*  **N8N**
 
 ## Let’s build something smart (or at least funny) together! ☕🤖
 
